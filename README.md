@@ -23,7 +23,9 @@ Total Sales
 Total Profit
 Total Orders
 Profit Margin (%)
+
 Designed an interactive dashboard with:
+
 KPI Cards
 Monthly Sales Trend
 Sales by Category
@@ -71,12 +73,12 @@ Natural language Q&A provides instant answers to business questions without requ
 
 📍 Power BI Sales Dashboard
 
-(Insert Power BI Dashboard Screenshot)
+![image alt](https://github.com/swathisuresh-19/E-commerce-Sales-Analytics-Power-BI-Microsoft-Fabric-AI-Insights/blob/main/Dashboard%20Screenshot.png?raw=true)
 
 📍 Microsoft Fabric Report
 
-(Insert Microsoft Fabric Report Screenshot)
+![image alt](https://github.com/swathisuresh-19/E-commerce-Sales-Analytics-Power-BI-Microsoft-Fabric-AI-Insights/blob/main/report_screenshot.png?raw=true)
 
 📍 AI Insights Dashboard
 
-(Insert AI Insights Dashboard Screenshot)
+![image alt](https://github.com/swathisuresh-19/E-commerce-Sales-Analytics-Power-BI-Microsoft-Fabric-AI-Insights/blob/main/insights%20dashboard.png?raw=true)
