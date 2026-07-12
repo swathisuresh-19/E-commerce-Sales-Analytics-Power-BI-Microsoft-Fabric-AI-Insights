@@ -19,9 +19,13 @@ Project Phases
 Imported the Superstore dataset into Power BI Desktop.
 Cleaned and transformed data using Power Query.
 Created DAX measures for:
+
 Total Sales
+
 Total Profit
+
 Total Orders
+
 Profit Margin (%)
 
 Designed an interactive dashboard with:
