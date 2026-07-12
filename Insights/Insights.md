@@ -1,4 +1,4 @@
-Analysis
+Analysis:
 
 Q1. What is the total sales?
 Answer: $2.30 Million
@@ -30,23 +30,30 @@ Answer: Central Region
 Q10. Which month has the highest sales?
 Answer: November
 
-Key Business Insights
-Revenue Performance
+Key Business Insights:
+
+Revenue Performance:
 The business generated $2.30M in total sales from over 10,000 orders, demonstrating strong market performance.
-Profitability
+
+Profitability:
 Despite high sales, the overall profit margin is 12.47%, suggesting opportunities to improve profitability through better pricing and cost management.
-Product Performance
+
+Product Performance:
 Technology is the highest-performing category, making it the primary contributor to revenue.
 Furniture and Office Supplies provide stable revenue but require profitability optimization.
-Regional Insights
+
+Regional Insights:
 The West region is the strongest performer in both sales and profit.
 South and Central regions have lower profit contributions, indicating growth opportunities.
-Seasonal Trends
+
+Seasonal Trends:
 Sales reach their highest levels during November and December.
 Businesses should prepare inventory and promotional campaigns ahead of these peak periods.
-Customer Insights
+
+Customer Insights:
 Customer profitability varies significantly.
 High-value customers should be targeted with loyalty programs, while low-margin customers should be analyzed for pricing improvements.
-Geographic Analysis
+
+Geographic Analysis:
 Urban markets generate the majority of sales.
 Geographic insights help identify potential expansion opportunities in less-penetrated regions.
